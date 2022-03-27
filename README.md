@@ -1,4 +1,4 @@
-# cotizador
+# Cotizador interno en Grupo Fidget para cliente Tiendas Soriana.
 
 Este proyecto fue diseñado internamente para la asistencia de creación, envío y seguimiento de cotizaciones para un cliente en específico, debido a que este cliente presentaba el 80% de las cotizaciones y de tiempo enfocado para su atención.
 
